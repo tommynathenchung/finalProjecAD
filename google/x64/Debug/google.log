@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\e2301486\source\repos\phpProject\google\main.c(6,10): warning C4013: 'rand' undefined; assuming extern returning int
+  google.vcxproj -> C:\Users\e2301486\source\repos\phpProject\x64\Debug\google.exe
